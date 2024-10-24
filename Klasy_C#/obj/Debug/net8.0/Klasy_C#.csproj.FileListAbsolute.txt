@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\bin\Debug\net8.0\Klasy_C#.exe
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\bin\Debug\net8.0\Klasy_C#.deps.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\bin\Debug\net8.0\Klasy_C#.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\bin\Debug\net8.0\Klasy_C#.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\bin\Debug\net8.0\Klasy_C#.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\refint\Klasy_C#.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\Klasy_C#.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\klasy_C-\Klasy_C#\obj\Debug\net8.0\ref\Klasy_C#.dll
